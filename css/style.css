@@ -338,10 +338,16 @@ a {
   align-items: center;
 }
 
-.bouton{
+.btnEnvoyer{
 
   width: 100%;
   padding: 12px 14px;
+  color: white;
+  background-color: #2f5bea;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: medium ;
   
 
 }
