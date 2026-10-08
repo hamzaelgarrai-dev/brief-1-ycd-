@@ -351,3 +351,46 @@ a {
   
 
 }
+
+.about_container{
+
+  padding: 24px;
+  margin: 0 auto;
+  max-width: var(--largeur-max);
+  display: flex;
+
+  align-items: center;
+  justify-content: space-between;
+
+
+}
+
+.firstname_tag{
+
+  font-family: "Tienne", serif;
+  font-weight: 400;
+  font-size: 48px;
+  margin-bottom: 12px;
+}
+
+.lastname_tag{
+  font-family: "Tienne", serif;
+  font-weight: 400;
+  font-size: 48px;
+  margin-bottom: 20px;
+  padding-left: 36px;
+}
+
+.description{
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin-bottom: 28px;
+  
+}
+
+.text_side{
+
+  max-width: 600px;
+  
+}
