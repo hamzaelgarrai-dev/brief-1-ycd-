@@ -394,3 +394,44 @@ a {
   max-width: 600px;
   
 }
+
+
+@media (max-width : 600px) {
+
+  body {
+  margin: 0;
+  font-family: var(--police);
+  font-size: 16px;
+  line-height: 1.4;
+  color: var(--couleur-texte);
+  background-color: var(--couleur-fond);
+}
+
+.menu{
+
+  display: none;
+
+}
+
+
+.presentation__contenu {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  gap: 64px;
+}
+
+ .image {
+        order: 1;
+    }
+
+  .texte {
+        order: 2;
+   }
+
+   
+
+
+  
+}
