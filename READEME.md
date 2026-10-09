@@ -1,0 +1,1 @@
+link to figma : https://www.figma.com/design/gdSOTZx21ozjVOVI0kb3Dp/brief1?node-id=0-1&t=GLubebfpHySK2fwt-1
